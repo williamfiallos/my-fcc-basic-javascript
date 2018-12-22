@@ -7,3 +7,7 @@ console.log("testing...");
 // Basic JavaScript: Declare JavaScript Variables
 var myName;
 
+// Basic JavaScript: Storing Values with the Assignment Operator
+a = 7;
+b = a;
+
