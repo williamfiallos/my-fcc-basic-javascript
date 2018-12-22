@@ -4,3 +4,6 @@ console.log("testing...");
 1. Create a // style comment that contains at least five letters.
 2. Create a '/*' '*'/ style comment that contains at least five letters. */
 
+// Basic JavaScript: Declare JavaScript Variables
+var myName;
+
