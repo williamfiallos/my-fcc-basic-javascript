@@ -11,3 +11,6 @@ var myName;
 a = 7;
 b = a;
 
+// Basic JavaScript: Initializing Variables with the Assignment Operator
+var a = 9;
+
