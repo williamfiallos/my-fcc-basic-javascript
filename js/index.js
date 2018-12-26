@@ -37,3 +37,6 @@ studlyCapVar = 10;
 properCamelCase = "A String";
 titleCaseOver = 9000;
 
+// Basic JavaScript: Add Two Numbers with JavaScript
+var sum = 10 + 10;
+sum;
