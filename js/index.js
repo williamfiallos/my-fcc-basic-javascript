@@ -49,3 +49,15 @@ var difference = 45 - 1;
 difference - 33;
 difference - 1;
 
+// Basic JavaScript: Multiply Two Numbers with JavaScript
+var product = 8 * 10;
+// Basic JavaScript: Divide One Number by Another with JavaScript
+var quotient = 66 / 33;
+
+// Basic JavaScript: Increment a Number with JavaScript
+var myVar = 87;
+
+// Only change code below this line
+// myVar = myVar + 1;
+myVar++;
+
