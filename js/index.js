@@ -56,8 +56,12 @@ var quotient = 66 / 33;
 
 // Basic JavaScript: Increment a Number with JavaScript
 var myVar = 87;
-
 // Only change code below this line
 // myVar = myVar + 1;
 myVar++;
 
+// Basic JavaScript: Decrement a Number with JavaScript
+var myVar = 11;
+// Only change code below this line
+// myVar = myVar - 1;
+myVar = myVar--;
