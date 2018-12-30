@@ -65,3 +65,9 @@ var myVar = 11;
 // Only change code below this line
 // myVar = myVar - 1;
 myVar = myVar--;
+
+// Basic JavaScript: Create Decimal Numbers with JavaScript
+var ourDecimal = 5.7;
+// Only change code below this line
+var myDecimal = 4.3;
+
