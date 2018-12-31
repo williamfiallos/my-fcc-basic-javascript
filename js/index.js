@@ -71,3 +71,9 @@ var ourDecimal = 5.7;
 // Only change code below this line
 var myDecimal = 4.3;
 
+// Basic JavaScript: Multiply Two Decimals with JavaScript
+var product = 2.0 * 2.5; // <= 5.0
+// Basic JavaScript: Divide One Decimal by Another with JavaScript
+var quotient = 0.0 / 2.0; // Fix this line
+var quotient = 4.4 / 2.0; // <= 2.2
+
