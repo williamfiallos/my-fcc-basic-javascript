@@ -81,3 +81,12 @@ var quotient = 4.4 / 2.0; // <= 2.2
 // Only change code below this line
 var remainder = 11 % 3;
 
+// Basic JavaScript: Compound Assignment With Augmented Addition
+var a = 3;
+var b = 17;
+var c = 12;
+// Only modify code below this line
+a += 12;
+b += 9;
+c += 7;
+
