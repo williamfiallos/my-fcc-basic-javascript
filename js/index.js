@@ -77,3 +77,7 @@ var product = 2.0 * 2.5; // <= 5.0
 var quotient = 0.0 / 2.0; // Fix this line
 var quotient = 4.4 / 2.0; // <= 2.2
 
+// Basic JavaScript: Finding a Remainder in JavaScript
+// Only change code below this line
+var remainder = 11 % 3;
+
