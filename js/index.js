@@ -117,3 +117,11 @@ a /= 12;
 b /= 4;
 c /= 11;
 
+// Basic JavaScript: Declare String Variables
+// Example
+var firstName = "Alan";
+var lastName = "Turing";
+// Only change code below this line
+var myFirstName = "William";
+var myLastName = "Fiallos";
+
