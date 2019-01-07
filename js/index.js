@@ -125,3 +125,6 @@ var lastName = "Turing";
 var myFirstName = "William";
 var myLastName = "Fiallos";
 
+// Basic JavaScript: Escaping Literal Quotes in Strings
+var myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
+
