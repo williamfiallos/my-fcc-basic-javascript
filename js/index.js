@@ -131,3 +131,14 @@ var myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Chan
 // Basic JavaScript: Quoting Strings with Single Quotes
 var myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
 
+// Basic JavaScript: Escape Sequences in Strings
+/*Code	Output
+\'	single quote
+\"	double quote
+\\	backslash
+\n	newline
+\r	carriage return
+\t	tab
+\b	backspace
+\f	form feed */
+var myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
