@@ -142,3 +142,10 @@ var myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
 \b	backspace
 \f	form feed */
 var myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
+
+// Basic JavaScript: Concatenating Strings with Plus Operator
+// Example
+var ourStr = "I come first. " + "I come second.";
+// Only change code below this line
+var myStr = "This is the start. " + "This is the end.";
+
