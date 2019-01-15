@@ -165,3 +165,13 @@ var ourStr = "Hello, our name is " + ourName + ", how are you?";
 var myName = "William Fiallos";
 var myStr = "My name is " + myName + " and I am well!";
 
+// Basic JavaScript: Appending Variables to Strings
+// Example
+var anAdjective = "awesome!";
+var ourStr = "freeCodeCamp is ";
+ourStr += anAdjective;
+// Only change code below this line
+var someAdjective = "bloody awesome!";
+var myStr = "Learning to code is ";
+myStr += someAdjective;
+
