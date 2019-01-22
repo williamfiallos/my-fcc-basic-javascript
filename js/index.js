@@ -198,3 +198,8 @@ var lastName = "Lovelace";
 // Only change code below this line
 firstLetterOfLastName = lastName[0];
 
+// Basic JavaScript: Understand String Immutability
+// Setup
+var myStr = "Jello World";
+// Only change code below this line
+myStr = "Hello World"; // Fix Me
