@@ -203,3 +203,13 @@ firstLetterOfLastName = lastName[0];
 var myStr = "Jello World";
 // Only change code below this line
 myStr = "Hello World"; // Fix Me
+
+// Basic JavaScript: Use Bracket Notation to Find the Nth Character in a String
+// Example
+var firstName = "Ada";
+var secondLetterOfFirstName = firstName[1];
+// Setup
+var lastName = "Lovelace";
+// Only change code below this line.
+var thirdLetterOfLastName = lastName[2];
+
