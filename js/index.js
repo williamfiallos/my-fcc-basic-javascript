@@ -230,3 +230,14 @@ var thirdToLastLetterOfFirstName = firstName[firstName.length - 3];
 var lastName = "Lovelace";
 // Only change code below this line
 var secondToLastLetterOfLastName = lastName[lastName.length - 2];
+
+// Basic JavaScript: Word Blanks
+function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
+  // Your code below this line
+  var result = "";
+  result+= "My "+myAdjective+" "+myNoun+" "+myVerb+" away "+myAdverb+".";
+  // Your code above this line
+  return result;
+}
+// Change the words here to test your function
+wordBlanks("dog", "big", "ran", "quickly");
