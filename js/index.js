@@ -241,3 +241,9 @@ function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
 }
 // Change the words here to test your function
 wordBlanks("dog", "big", "ran", "quickly");
+
+// Basic JavaScript: Store Multiple Values in one Variable using JavaScript Arrays
+// Example
+var ourArray = ["John", 23];
+// Only change code below this line.
+var myArray = ["William", 31];
