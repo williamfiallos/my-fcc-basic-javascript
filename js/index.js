@@ -247,3 +247,10 @@ wordBlanks("dog", "big", "ran", "quickly");
 var ourArray = ["John", 23];
 // Only change code below this line.
 var myArray = ["William", 31];
+
+// Basic JavaScript: Nest one Array within Another Array
+// Example
+var ourArray = [["the universe", 42], ["everything", 101010]];
+// Only change code below this line.
+var myArray = [['William', 31], ['Steffi', 24]];
+
