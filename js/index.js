@@ -254,3 +254,11 @@ var ourArray = [["the universe", 42], ["everything", 101010]];
 // Only change code below this line.
 var myArray = [['William', 31], ['Steffi', 24]];
 
+// Basic JavaScript: Access Array Data with Indexes
+// Example
+var ourArray = [50,60,70];
+var ourData = ourArray[0]; // equals 50
+// Setup
+var myArray = [50,60,70];
+// Only change code below this line.
+var myData = myArray[0];
