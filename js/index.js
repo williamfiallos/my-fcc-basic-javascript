@@ -325,3 +325,15 @@ myArray.unshift(["Paul", 35]);
 // Basic JavaScript: Shopping List
 var myList = [];
 myList.push(["shampoo", 1], ["soap", 1], ["toothpaste", 1], ["deodorant", 1], ["cologne", 1]);
+
+// Basic JavaScript: Write Reusable JavaScript with Functions
+// Example
+function ourReusableFunction() {
+  console.log("Heyya, World");
+}
+ourReusableFunction();
+// Only change code below this line
+function reusableFunction() {
+  console.log("Hi World");
+}
+reusableFunction();
