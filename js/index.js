@@ -321,3 +321,7 @@ var myArray = [["John", 23], ["dog", 3]];
 myArray.shift();
 // Only change code below this line.
 myArray.unshift(["Paul", 35]);
+
+// Basic JavaScript: Shopping List
+var myList = [];
+myList.push(["shampoo", 1], ["soap", 1], ["toothpaste", 1], ["deodorant", 1], ["cologne", 1]);
