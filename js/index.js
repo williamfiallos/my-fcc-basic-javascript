@@ -402,3 +402,17 @@ function timesFive(num) {
   return num * 5;
 }
 console.log(timesFive(5));
+
+// Basic JavaScript: Understanding Undefined Value returned from a Function
+// Example
+var sum = 0;
+function addThree() {
+  sum = sum + 3;
+}
+// Only change code below this line
+var sum = 0;
+function addFive() {
+  sum = sum + 5;
+}
+// Only change code above this line
+var returnedValue = addFive();
