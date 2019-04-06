@@ -446,3 +446,4 @@ console.log("Before: " + JSON.stringify(testArr));
 console.log(nextInLine(testArr, 6)); // Modify this line to test
 console.log("After: " + JSON.stringify(testArr));
 
+// Basic JavaScript: Understanding Boolean Values
