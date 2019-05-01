@@ -585,7 +585,6 @@ testLessOrEqual(10);
 // Basic JavaScript: Comparisons with the Logical And Operator
 function testLogicalAnd(val) {
   // Only change code below this line
-
   if (val > 24 && val < 51) {
     return "Yes";
   }
@@ -594,3 +593,15 @@ function testLogicalAnd(val) {
 }
 // Change this value to test
 testLogicalAnd(10);
+
+// Basic JavaScript: Comparisons with the Logical Or Operator
+function testLogicalOr(val) {
+  // Only change code below this line
+  if (val < 10 || val > 20) {
+    return "Outside";
+  }
+  // Only change code above this line
+  return "Inside";
+}
+// Change this value to test
+testLogicalOr(15);
