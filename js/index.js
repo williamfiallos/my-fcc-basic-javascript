@@ -605,3 +605,18 @@ function testLogicalOr(val) {
 }
 // Change this value to test
 testLogicalOr(15);
+
+// Basic JavaScript: Introducing Else Statements
+function testElse(val) {
+  var result = "";
+  // Only change code below this line 
+  if (val <= 5) {
+    return "5 or Smaller";
+  } else { 
+    return "Bigger than 5"
+  }
+  // Only change code above this line
+  return result;
+}
+// Change this value to test
+testElse(4);
