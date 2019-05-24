@@ -742,3 +742,5 @@ function switchOfStuff(val) {
 // Change this value to test
 switchOfStuff(1);
 
+
+// Basic JavaScript: Multiple Identical Options in Switch Statements
