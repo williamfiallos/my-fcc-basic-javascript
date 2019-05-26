@@ -770,3 +770,4 @@ function sequentialSizes(val) {
 // Change this value to test
 sequentialSizes(1);
 
+// Basic JavaScript: Replacing If Else Chains with Switch
