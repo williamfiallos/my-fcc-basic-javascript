@@ -808,3 +808,18 @@ function isLess(a, b) {
 // Change these values to test
 isLess(10, 15);
 
+// Basic JavaScript: Return Early Pattern for Functions
+// Setup
+function abTest(a, b) {
+  // Only change code below this line
+  if (a < 0){
+    return undefined;
+  } else if (b < 0){
+    return undefined;
+  } 
+  // Only change code above this line
+  return Math.round(Math.pow(Math.sqrt(a) + Math.sqrt(b), 2));
+}
+// Change values below to test your code
+abTest(2,2);
+
