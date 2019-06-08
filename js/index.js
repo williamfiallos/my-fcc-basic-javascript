@@ -903,3 +903,25 @@ var testObj = {
 // Only change code below this line;
 var playerNumber = 16;       // Change this Line
 var player = testObj[playerNumber];   // Change this Line
+
+// Basic JavaScript: Updating Object Properties
+// Example
+var ourDog = {
+  "name": "Camper",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["everything!"]
+};
+ourDog.name = "Happy Camper";
+// Setup
+var myDog = {
+  "name": "Coder",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["freeCodeCamp Campers"]
+};
+// Only change code below this line.
+myDog.name = "Happy Coder";
+// or
+myDog["name"] = "Happy Coder";
+
