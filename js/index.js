@@ -1165,3 +1165,16 @@ updateRecords(5439, "artist", "ABBA");
 // value is not a blank string, so the second part of the else if statement passes.
 // artist: "ABBA" is added to the 5439 id.
 
+// ---------------------------------------
+// Basic JavaScript: Iterate with JavaScript While Loops
+// Setup
+var myArray = [];
+
+// Only change code below this line.
+let i = 0;
+while(i < 5 ){
+  myArray.push(i);
+  i++;
+}
+// myArray[0, 1, 2, 3, 4];
+
