@@ -1221,3 +1221,4 @@ for (var i = 1; i <= 6; i++) {
     myArray.push(i);
 }
 
+// Basic JavaScript: Iterate Odd Numbers With a For Loop
