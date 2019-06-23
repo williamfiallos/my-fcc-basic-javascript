@@ -1235,3 +1235,17 @@ for (var i = 1; i < 11; i += 2) {
 }
 // myArray = [1,3,5,7,9]
 
+// Basic JavaScript: Count Backwards With a For Loop
+// Example
+var ourArray = [];
+for (var i = 10; i > 0; i -= 2) {
+  ourArray.push(i);
+}
+// Setup
+var myArray = [];
+// Only change code below this line.
+for (i = 9; i > 0; i -= 2) {
+  myArray.push(i);
+}
+// myArray[9,7,5,3,1];
+
