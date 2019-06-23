@@ -1222,3 +1222,16 @@ for (var i = 1; i <= 6; i++) {
 }
 
 // Basic JavaScript: Iterate Odd Numbers With a For Loop
+// Example
+var ourArray = [];
+for (var i = 0; i < 10; i += 2) {
+  ourArray.push(i);
+}
+// Setup
+var myArray = [];
+// Only change code below this line.
+for (var i = 1; i < 11; i += 2) {
+  myArray.push(i);
+}
+// myArray = [1,3,5,7,9]
+
