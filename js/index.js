@@ -1334,3 +1334,4 @@ return "No such contact";
 // Change these values to test your function
 lookUpProfile("Akira", "likes");
 
+// Basic JavaScript: Generate Random Fractions with JavaScript
