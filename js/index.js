@@ -1369,3 +1369,9 @@ function randomRange(myMin, myMax) {
 // Change these values to test your function
 var myRandom = randomRange(5, 15);
 
+// Basic JavaScript: Use the parseInt Function
+function convertToInteger(str) {
+  return parseInt(str);
+}
+convertToInteger("56"); // returns 56/77/NaN if not a number
+
