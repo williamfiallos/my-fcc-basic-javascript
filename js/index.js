@@ -1394,3 +1394,6 @@ function convertToInteger(str) {
 convertToInteger("10011"); // returns 19
 
 // Basic JavaScript: Use the Conditional (Ternary) Operator
+
+
+// Basic JavaScript: Use Multiple Conditional (Ternary) Operators
